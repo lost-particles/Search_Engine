@@ -13,4 +13,5 @@ var rl = readline.createInterface({
 
 rl.on('line', function (line) {
   // TODO some code
+  rl.output(natural.PorterStemmer.stem(line))
 });

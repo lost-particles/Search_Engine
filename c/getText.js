@@ -11,10 +11,14 @@ const rl = readline.createInterface({
 
 // TODO Add some code
 
+var response = "";
+
 rl.on('line', (line) => {
   // TODO Add some code
+  response = response + line;
 });
 
 rl.on('close', () => {
   // TODO Add some code
+  process.stdout.write(convert(response)+"\n")
 });
