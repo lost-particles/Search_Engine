@@ -5,6 +5,8 @@
 var readline = require('readline');
 var natural = require('natural');
 
+var stemmedOutput = "";
+const emptyLineRegex = /^\s*$/;
 var rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
@@ -13,5 +15,18 @@ var rl = readline.createInterface({
 
 rl.on('line', function (line) {
   // TODO some code
-  rl.output(natural.PorterStemmer.stem(line))
+  //console.log(natural.PorterStemmer.stem(line));
+  if(!emptyLineRegex.test(line)){
+    if(stemmedOutput===""){
+      stemmedOutput=natural.PorterStemmer.stem(line);
+    }else{
+      stemmedOutput=stemmedOutput + "\n" + natural.PorterStemmer.stem(line);
+    }
+  }
+
 });
+
+rl.on('close', () => {
+  console.log(stemmedOutput);
+});
+
