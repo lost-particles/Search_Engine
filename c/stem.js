@@ -5,25 +5,24 @@
 var readline = require('readline');
 var natural = require('natural');
 
-var stemmedOutput = "";
+var stemmedOutput = '';
 const emptyLineRegex = /^\s*$/;
 var rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
-  terminal: false
+  terminal: false,
 });
 
-rl.on('line', function (line) {
+rl.on('line', function(line) {
   // TODO some code
-  //console.log(natural.PorterStemmer.stem(line));
-  if(!emptyLineRegex.test(line)){
-    if(stemmedOutput===""){
+  // console.log(natural.PorterStemmer.stem(line));
+  if (!emptyLineRegex.test(line)) {
+    if (stemmedOutput==='') {
       stemmedOutput=natural.PorterStemmer.stem(line);
-    }else{
-      stemmedOutput=stemmedOutput + "\n" + natural.PorterStemmer.stem(line);
+    } else {
+      stemmedOutput=stemmedOutput + '\n' + natural.PorterStemmer.stem(line);
     }
   }
-
 });
 
 rl.on('close', () => {
