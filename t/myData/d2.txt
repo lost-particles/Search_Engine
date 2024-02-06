@@ -1,7 +1,183 @@
-WELCOME TO CS1380 SIMPLE LINKS
+↓Skip to main content
+CS1380: Distributed Systems CS1380: Distributed Systems
+[/courses/csci1380/img/logo.png] [/courses/csci1380/]
+CS1380: Distributed Systems [/courses/csci1380/]
 
-Check out Some stuff [level_2a/index.html].
+Resources
 
-Check out Some more stuff [level_2b/index.html].
+[/courses/csci1380/resources/]
+Schedule
 
-© 2023 CS1380. All rights reserved.
+Semester Schedule
+
+[/courses/csci1380/schedule/]
+
+Calendar
+
+[/courses/csci1380/calendar/]
+
+Staff
+
+[/courses/csci1380/staff/]
+Milestones [/courses/csci1380/milestones/]
+
+Milestone 0
+
+[/courses/csci1380/milestone0/]
+Past Years
+
+Spring 2023
+
+[https://cs.brown.edu/courses/csci1380/s23]
+
+Spring 2022
+
+[https://cs.brown.edu/courses/csci1380/s22]
+
+Spring 2021
+
+[https://cs.brown.edu/courses/csci1380/s21]
+
+Spring 2020
+
+[https://cs.brown.edu/courses/csci1380/s20]
+
+Spring 2019
+
+[https://cs.brown.edu/courses/csci1380/s19]
+
+Spring 2018
+
+[https://cs.brown.edu/courses/csci1380/s18]
+
+Spring 2017
+
+[https://cs.brown.edu/courses/csci1380/s17]
+
+Spring 2016
+
+[https://cs.brown.edu/courses/csci1380/s16]
+
+Spring 2015
+
+[https://cs.brown.edu/courses/csci1380/s15]
+
+Spring 2012
+
+[https://cs.brown.edu/courses/csci1380/s12]
+
+ *
+
+ * Resources
+
+   [/courses/csci1380/resources/]
+
+ * Schedule
+
+ * Semester Schedule
+
+   [/courses/csci1380/schedule/]
+
+ * Calendar
+
+   [/courses/csci1380/calendar/]
+ *
+
+ * Staff
+
+   [/courses/csci1380/staff/]
+
+ * Milestones
+
+ * Milestone 0
+
+   [/courses/csci1380/milestone0/]
+ *
+
+ * Past Years
+
+ * Spring 2023
+
+   [https://cs.brown.edu/courses/csci1380/s23]
+
+ * Spring 2022
+
+   [https://cs.brown.edu/courses/csci1380/s22]
+
+ * Spring 2021
+
+   [https://cs.brown.edu/courses/csci1380/s21]
+
+ * Spring 2020
+
+   [https://cs.brown.edu/courses/csci1380/s20]
+
+ * Spring 2019
+
+   [https://cs.brown.edu/courses/csci1380/s19]
+
+ * Spring 2018
+
+   [https://cs.brown.edu/courses/csci1380/s18]
+
+ * Spring 2017
+
+   [https://cs.brown.edu/courses/csci1380/s17]
+
+ * Spring 2016
+
+   [https://cs.brown.edu/courses/csci1380/s16]
+
+ * Spring 2015
+
+   [https://cs.brown.edu/courses/csci1380/s15]
+
+ * Spring 2012
+
+   [https://cs.brown.edu/courses/csci1380/s12]
+ *
+
+Date Topic Milestones1 Papers Quiz2 Th Jan 25 Introduction
+[https://drive.google.com/file/d/1Vb6_yG1ye-kEBtpcCA1_BV2NtiLKnQoJ/view] How to
+Read a Paper [http://ccr.sigcomm.org/online/files/p83-keshavA.pdf] Q1
+[https://forms.gle/JpkG7JYV9tvbsLoR8] Tu Jan 30 Distributed Systems
+[https://drive.google.com/file/d/1p2GO65Hv138d7h5OALkk_4c-vsDOdRfJ/view] M0:
+Setup
+[https://docs.google.com/document/d/e/2PACX-1vRnidfAJt9ozVGXvPKXU1LMNTlCgfsBb2hmqr4Uw_hwwpW52FnAH4e5-_w9HJDx-LwLfCgmOovUfuPz/pub]
+Node.js [https://www.youtube.com/watch?v=ztspvPYybIY], Google
+[https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/334.pdf] Q2
+[https://forms.gle/8fKufFkSx5i5gmb4A] Th Feb 1 Nodes & Servers
+[https://drive.google.com/file/d/1rFxaYC4V5DyODnUq6PAMIjdB2EPefmtr/view?usp=sharing]
+Barrelfish
+[https://www.usenix.org/legacy/events/hotos09/tech/full_papers/baumann/baumann.pdf],
+SEDA [http://www.sosp.org/2001/papers/welsh.pdf] Q3
+[https://forms.gle/sKsFF8StGSPPFNMbA] Tu Feb 6 Communication & Serialization
+[https://drive.google.com/file/d/10mAeHh3D-_7mqk-li9vUOtbzhs4bU2zG/view?usp=sharing]
+M1: Serialization
+[https://docs.google.com/document/d/e/2PACX-1vSwf1NRh7D1iYxlqgnIPQT7pvCZEzbwoZ3dsRTnktxzJopuJSU2E2HB7_He-cVcOaDqWgTyYT18gjBJ/pub]
+Cornflakes
+[ihttps://sigops.org/s/conferences/hotos/2021/papers/hotos21-s10-raghavan.pdf]
+or Zerializer
+[https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s10-wolnikowski.pdf]
+Q4 [https://forms.gle/S1t3pMPwf2BSc6DD7] Th Feb 8 Models of Distributed
+Computing Tu Feb 13 Leaderless Replication M2: Actors / RPCs Th Feb 15 Gossip
+and Consistency Tu Feb 20 no class M3: Groups & Gossip Th Feb 22 Consistency II
+Tu Feb 27 Data Sharding / Partitioning M4: Sharding Th Feb 29 Data Routing Tu
+Mar 5 Review (M4 + project teams due) Th Mar 7 Exam 1 Tu Mar 12 Distributed
+Processing: MapReduce M5: MapReduce Th Mar 14 Distributed Processing: Spark &
+Timely Dataflow Tu Mar 19 Implementation of Distributed Processing & Internals
+M6: Distributed Programs Th Mar 21 Consensus Tu Mar 26 No class Th Mar 28 No
+class Tu Apr 2 Consensus II M7: Replication Th Apr 4 Distributed Transactions Tu
+Apr 9 Byzantine Fault Tolerance M8: Deployment Th Apr 11 Deploying Distributed
+Systems Tu Apr 16 Web Search at Scale: Neeva Th Apr 18 Special Topics: Stream
+Processing Tu Apr 23 Review (M8 & Report due) Th Apr 25 Exam 2 (Poster PDF due)
+Fr Apr 26 Poster Session: noon–1:30pm @ CIT 3rd floor
+
+1: They come out on Tuesday and they are due on the next Monday 11:59pm.
+2: They can be completed at any time on the day the quiz is released.
+
+
+↑
+
+© 2024 CS1380 | Brown Systems Group [https://systems.cs.brown.edu] | Brown
+University [https://www.brown.edu]

@@ -1,24 +1,24 @@
-check	stuff	level
-check	stuff	level
-level	check	stuff
-level	right
-link	check	stuff
-right
-simpl	link	check
-stuff	level	check
-stuff	level	right
-check	stuff
-check	stuff
-level	check
-link	check
-simpl	link
-stuff	level
-stuff	level
-check
-check
+father'
+father' fine
+father' fine fine
+fine
+fine
+fine
+fine fine
+fine fine level
+fine level
+fine level univers
+fine univers
+fire
+fire father'
+fire father' fine
 level
-level
-link
-simpl
+level univers
+level univers stuff
 stuff
-stuff
+stuff fine
+stuff fine univers
+univers
+univers
+univers stuff
+univers stuff fine

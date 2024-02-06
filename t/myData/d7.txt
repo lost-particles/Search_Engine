@@ -1,18 +1,16 @@
-check | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 2
-check stuff | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 2
-check stuff level | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 2
-level | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 2
-level check | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-level check stuff | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-level right | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-link | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-link check | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-link check stuff | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-right | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-simpl | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-simpl link | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-simpl link check | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-stuff | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 2
-stuff level | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 2
-stuff level check | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
-stuff level right | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1a/index.html 1
+fungi insect firefli | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1
+fungi insect | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1
+fungi speci reason | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1
+fungi speci | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1
+fungi | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 2 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 2
+geographi cultur travel | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1b/fact_4/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1b/fact_4/index.html 1
+geographi cultur | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1b/fact_4/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1b/fact_4/index.html 1
+geographi | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1b/fact_4/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1b/fact_4/index.html 1
+global knowledg histori | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_5/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_5/index.html 1
+global knowledg | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_5/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_5/index.html 1
+global | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_5/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_5/index.html 1
+glow wave beach | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1
+glow wave | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1
+glow | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1c/fact_6/index.html 1
+gogh claud monet | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1b/fact_3/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1b/fact_3/index.html 1
+gogh claud | https://cs.brown.edu/courses/csci1380/sandbox/1/level_1b/fact_3/index.html 1 https://cs.brown.edu/courses/csci1380/sandbox/1/level_1b/fact_3/index.html 1
