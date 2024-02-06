@@ -15,7 +15,12 @@ var response = "";
 
 rl.on('line', (line) => {
   // TODO Add some code
-  response = response + line;
+  if(response===""){
+    response = line + "\n";
+  }else{
+    response = response + "\n" + line;
+  }
+
 });
 
 rl.on('close', () => {
