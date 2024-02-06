@@ -67,7 +67,7 @@ const mergeIndices = () => {
       //process.stdout.write("input parts are 1>"+parts[0]+"2>"+parts[1]+"\n");
       const key = parts[0];
       const value = `${parts[2]} ${parts[1]}`;
-      //process.stdout.write("values from input are : "+value+"\n");
+      //process.stdout.write("values from input are : {"+key+","+value+"}\n");
       if (!resultMap[key]) {
         resultMap[key] = [];
       }
@@ -86,10 +86,13 @@ const mergeIndices = () => {
             const parts = line.split('|').map(part => part.trim());
             //process.stdout.write("parts are 1>"+parts[0]+"2>"+parts[1]+"\n");
             const key = parts[0];
+            //process.stdout.write("values from file are : {"+key+","+parts[1]+"}\n");
             if(parts[0]!==undefined && parts[1]!==undefined){
-              const pairs = parts[1].split('/\s+/').reduce((acc, curr, index, array) => {
+              const pairs = parts[1].trim().split(/\s+/).reduce((acc, curr, index, array) => {
                 if (index % 2 === 0) {
-                  acc.push(curr + ' ' + array[index + 1]);
+                  //process.stdout.write("cur is : "+curr + "and index is : "+index+ "array is : "+array+"\n");
+                  const pair = curr + ' ' + array[index + 1];
+                  acc.push(pair);
                 }
                 return acc;
               }, []);
@@ -102,6 +105,10 @@ const mergeIndices = () => {
                 }
                 const val = `${eleParts[0]} ${eleParts[1]}`;
                 resultMap[key].push(val);
+                //process.stdout.write("Pairs_1 from file are : {"+eleParts[0]+"\n");
+                //process.stdout.write("Pairs_2 from file are : {"+eleParts[1]+"\n");
+
+
 
               });
             }

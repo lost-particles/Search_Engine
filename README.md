@@ -20,7 +20,7 @@ My implementation comprises `9` software components, totaling `500` lines of cod
 ## Correctness & Performance Characterization
 > Describe how you characterized the correctness and performance of your implementation
 
-*Correctness*: My implementation passes `9` out of the `10` tests (`90`%) already provided for M0. I developed another `<number>` tests, which focus on `<..details>`. All these tests, combined take `<time>` to complete. `<additional approaches for increasing correctness confidence>`.
+*Correctness*: My implementation passes `10` out of the `10` tests (`100`%) already provided for M0. I developed another `<number>` tests, which focus on `<..details>`. All these tests, combined take `<time>` to complete. `<additional approaches for increasing correctness confidence>`.
 
 *Performance*: Evaluating the entire system using the `time` command on the three sandboxes reports the following times:
 
